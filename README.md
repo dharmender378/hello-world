@@ -1,3 +1,2 @@
 # hello-world
-git features
-learning github
+exploring github commands
