@@ -1,2 +1,3 @@
 # hello-world
-exploring github commands
+its good to learn git hub
+
